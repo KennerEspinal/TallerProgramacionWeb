@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+#title {
+  color: antiquewhite;
+  background-color: #ff4c68;
+}
+
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.dog-picture{
+  transform: rotate(25deg);
+}
+
+#features{
+  text-align: center;
+  margin: 3%;
+  padding: 18%;
+}
+
+
+#features i{
+  color: #c54b5d;
+  font-size: 5rem;
+  padding: 2%;
+}
+
+#testimonials{
+  color: antiquewhite;
+  background-color: #ff4c68;
+  margin: 1rem;
+}
+
+.carousel-item{
+  text-align: center;
+  margin: .1rem;
+  padding: 3rem;
+}
+
+.imagen-features{
+  align-items: center;
+}
+
+.imagen-features img{
+  margin: 1rem;
+  padding: 2rem;
+  width: 10 vw;
+  border-radius: 12rem;
+}
+
+
+#press{
+  position: relative;
+  margin: 2rem;
+  padding: 5rem;
+}
+
+#pricing{
+  background-color: azure;
+  margin: 2rem;
+  padding: 15rem;
+  text-align: center;
+}
+
+.pricin-tittle h2{
+  color: #ff4c68;
+  font-size: 5rem;
+}
+
+.pricin-tittle p{
+  color: #c54b5d;
+  font-size: 2rem;
+  margin: 2rem;
+  padding: 1rem;
+}
+
+#cta{
+  text-align: center;
+  background-color: #ff4c68;
+  margin: 1rem;
+  padding: 2rem;
+  color: aliceblue;
+}
+
+#footer {
+  text-align: center;
+}
